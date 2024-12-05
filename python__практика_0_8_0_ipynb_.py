@@ -30,7 +30,7 @@ import requests
 import datetime
 
 NASA_URL = "https://api.nasa.gov"
-API_KEY = "wUBA7yd1WemdjNVHWy0WWWwwWEy61KjFjusAbfve"
+API_KEY = "YOUR API KEY"
 
 
 # Функция для получения астрономической картинки дня (APOD)
